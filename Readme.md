@@ -1,3 +1,5 @@
+![Capa do Artigo](./assets/brainstorming.jpg)
+
 # Engenharia Cognitiva: Como Otimizar o "Algoritmo Mental" e Hackear a Inovação via Neuroassociação
 
 ## 📄 Resumo (Abstract)
@@ -21,3 +23,6 @@ Para compreender o impacto da neuroassociação, podemos modelar o conhecimento 
 
 
 🔗 **Acesse o conteúdo prático e completo aqui:** [artigo-neuroassociacao.md](./artigo-neuroassociacao.md)
+
+
+
